@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\EscuelaSystemData\EscuelaSystemData.csproj" />
+    <ProjectReference Include="..\EscuelaSystemData\FarmaciaSystemData.csproj" />
   </ItemGroup>
 
 </Project>

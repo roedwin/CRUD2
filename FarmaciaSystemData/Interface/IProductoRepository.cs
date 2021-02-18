@@ -5,7 +5,7 @@ using System.Text;
 
 namespace EscuelaSystemData.Interface
 {
-    public interface IMateriaRepository : IRepository<Materia>
+    public interface IProductoRepository : IRepository<Producto>
     {
     }
 }

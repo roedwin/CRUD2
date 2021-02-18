@@ -10,7 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\EscuelaSystemModules\EscuelaSystemModules.csproj" />
+    <ProjectReference Include="..\EscuelaSystemModules\FarmaciaSystemModules.csproj" />
   </ItemGroup>
 
 </Project>

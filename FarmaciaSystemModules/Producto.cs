@@ -5,7 +5,7 @@ using System.Text;
 
 namespace EscuelaSystemModules
 {
-    public class Materia : EntityBase
+    public class Producto : EntityBase
     {
         [Required(ErrorMessage = "El campo es requerido")]
         [Display(Name = "Codigo de Materia")]
